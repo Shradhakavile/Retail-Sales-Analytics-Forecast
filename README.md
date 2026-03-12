@@ -3,11 +3,11 @@
 ## Project Overview
 This project analyzes retail sales data to uncover business insights and forecast future revenue trends. The analysis combines Python for data processing and forecasting, SQL for business queries, and Power BI for interactive visualization.
 
-## Tools & Technologies
-Python (Pandas, Matplotlib)
-SQL
-Power BI
-Jupyter Notebook
+## Tools Used
+- Python (Pandas, Matplotlib)
+- SQL
+- Power BI
+- Jupyter Notebook
 
 ## Key Features
 - Sales trend analysis
